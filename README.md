@@ -8,7 +8,7 @@ Este repositório contém um painel executivo desenvolvido no **Power BI** focad
 
 O painel foi estruturado para permitir que gestores comparem instantaneamente o desempenho do ano atual com o mesmo período do ano anterior, identificando tendências de crescimento ou pontos de atenção.
 
-![Demonstração do Dashboard](./dashboard.png)
+![Demonstração do Dashboard](./painel.png)
 
 ---
 
